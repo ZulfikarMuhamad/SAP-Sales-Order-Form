@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\bin\Debug\SalesOrderForm.exe.config
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\bin\Debug\SalesOrderForm.exe
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\bin\Debug\SalesOrderForm.pdb
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\obj\Debug\SalesOrderForm.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\obj\Debug\SalesOrderForm.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\obj\Debug\SalesOrderForm.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\obj\Debug\SalesOrderForm.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\obj\Debug\SalesOrderForm.exe
+c:\users\user\documents\visual studio 2013\Projects\SalesOrderForm\SalesOrderForm\obj\Debug\SalesOrderForm.pdb
